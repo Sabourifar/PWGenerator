@@ -1,6 +1,6 @@
 # 🔐 PWGenerator
 
-A lightweight, interactive PowerShell CLI tool for generating cryptographically secure and customizable passwords.
+A lightweight, interactive PowerShell CLI tool for generating cryptographically secure passwords.
 
 ⚡ Generate cryptographically secure passwords, choose custom character sets, regenerate instantly, and optionally save passwords or login details locally — all from one interactive menu.
 
